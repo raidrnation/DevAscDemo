@@ -16,3 +16,4 @@ def csv_reader():
                 "password" : row["Password"]
             }
 
+    return devices
